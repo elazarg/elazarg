@@ -1,5 +1,5 @@
 ### Hi, I'm Elazar Gershuni! 👋
-I'm a Ph.D. student at the Technion. Currently working on Hebrew NLP (check out [this diacritizer](https://elazarg.github.io/dotter/)) and proof synthesis. I have contributed heavily to [mypy](https://github.com/python/mypy/) and recently to [anyway](https://github.com/hasadna/anyway/).
+I'm a Ph.D. student at the Technion. Currently working on Hebrew NLP (check out [this diacritizer](https://nakdimon.org)) and proof synthesis. I have contributed heavily to [mypy](https://github.com/python/mypy/) and recently to [anyway](https://github.com/hasadna/anyway/).
 
 Publications:
 * [vbpf/ebpf_verifier](https://github.com/vbpf/ebpf_verifier): Elazar Gershuni, Nadav Amit, Arie Gurfinkel, Nina Narodytska, Jorge A. Navas, Noam Rinetzky, Leonid Ryzhyk, and Mooly Sagiv. 2019. [Simple and precise static analysis of untrusted Linux kernel extensions](https://dl.acm.org/doi/pdf/10.1145/3314221.3314590). In Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2019).
